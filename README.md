@@ -1,2 +1,2 @@
-This repository contains Jieyuan's analytic works.
+This repository contains some of Jieyuan's analytic works.
 
